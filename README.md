@@ -3,6 +3,6 @@ Here you can basically access my maps, some schematics which I have saved etc. [
 
 # To do ↓
 - [ ] +1 vote for removing the purple coloured slow motion weather. 
-  - `vote was added by the "<Public> неубиватипoжалуста" or "<Public> неубивати пaжалуста"
+  - `vote was added by the "<Public> неубиватипoжалуста" or "<Public> неубивати пaжалуста"`
 - [ ] +1 vote for removing the snow.
   -`vote was added by the "<Public> `
