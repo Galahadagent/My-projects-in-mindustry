@@ -6,3 +6,5 @@ Here you can basically access my maps, some schematics which I have saved etc. [
   - `vote was added by the "<Public> неубиватипoжалуста" or "<Public> неубивати пaжалуста"`
 - [ ] +1 vote for removing the snow.
   - `vote was added by the "<Public> я 335" `
+- [ ] +1 vote for reducing the first wave waiting time to 4 minutes or 3 minutes.
+  - `vote was added by the "<Co-owner> kennarddh"`
