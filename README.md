@@ -4,7 +4,8 @@ Here you can basically access my maps, some schematics which I have saved etc. [
 # To do ↓
 - [ ] +1 vote for removing the purple coloured slow motion weather. 
   - `vote was added by the "<Public> неубиватипoжалуста" or "<Public> неубивати пaжалуста"`
-- [ ] +1 vote for removing the snow.
+- [ ] {(+1) + (-1)} vote for removing the snow.
   - `vote was added by the "<Public> я 335" `
+  -  `vote was added by the "<Public> [blue]ga[white]bri[blue]el[yellow]10" `
 - [ ] +1 vote for reducing the first wave waiting time to 4 minutes or 3 minutes.
   - `vote was added by the "<Co-owner> kennarddh"`
