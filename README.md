@@ -7,6 +7,6 @@ Here you can basically access my maps, some schematics which I have saved etc. [
 - [ ] {(+1) + (-1)} vote for removing the snow.
   - `vote was added by the "<Public> я 335" `
   -  `vote was added by the "<Public> [blue]ga[white]bri[blue]el[yellow]10" `
-- [ ] {(+1) + (0)} vote for reducing the first wave waiting time to 4 minutes or 3 minutes.
+- [x] {(+1) + (0)} vote for reducing the first wave waiting time to 4 minutes or 3 minutes.
   - `vote was added by the "<Co-owner> kennarddh"`
   -  `vote was added by the "<Public> [blue]ga[white]bri[blue]el[yellow]10" `
