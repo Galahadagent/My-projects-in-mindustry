@@ -9,4 +9,4 @@ Here you can basically access my maps, some schematics which I have saved etc. {
   - `vote was added by the "<Public> (NAME3/NAME1/NAME2/NAME4/etc.)"`
   - `vote was added by the "<Public> (NAME4/NAME1/NAME2/NAME3/etc.)"`
 
-- [DON'T WRITE THIS LINE TO THE ORIGINAL README.md{↑ `if / = or`}]
+- DON'T WRITE THIS LINE TO THE ORIGINAL README.md{↑ `if / = or`}
